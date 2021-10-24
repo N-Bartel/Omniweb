@@ -1,0 +1,65 @@
+Spring 2015-2016 44 Values
+Summer 2015-2016 44 Values
+Fall 2015-2016 78 Values
+Winter 2015-2016 33 Values
+
+
+
+y = a*x1 + b*x2 + c*x3 
+if you make x1`=-x1, and a`=-a, y does not change 
+y = a`*x1` + b*x2 + c*x3 
+
+
+
+timesheets
+clouds
+
+harrison and steve
+
+ccarsupport@Colorado.EDU 
+
+amperefit needs a rerun
+
+use regression onto our basis functions you smooth out so much f the ampere data. On slide 11. Take the john hopkins fitted product and figure out if we could use that as a background to generate eofs. Right now EOFs are generateed from the ampere data with mean regresion.What we want ot do is to make a set of EOFs that are the diffrence between the EOfs we get and teh fitted...Theere plots hide the rining. The JHAP and ours should match each other bu tours has rinining.  They are carefully selecting the contours.
+
+
+Make a plot similar
+
+Make the plots match up the same amount of lattidue.
+
+revisit this slide deck
+
+AMPERE PI we will talk to.
+
+Good solid analysis of this.
+
+What is fitted potential and raw potential
+
+We want to show magnetic potential is very strange.
+
+PI's name is Brian.
+
+Raw - the title needs to be clarified
+
+Fix the domain for the plots.
+
+He liked that we used his product ut his is not very good.
+If you fit magnetic potetnila its strange due to the ringing. 
+Put together something thats a little more detailed in terms of what is being displayed. 
+
+Look into slide 8
+
+We need a color bar onall the images
+
+Look into slide 8
+
+Focus is on his products.
+
+We need to orient ourself to what will be most useful in terms of what to say. We don't need to go after the ringing enven though there is ringing. Make it more descirpitive.
+
+Shoot for the first week of november.
+
+Meet on Wednesday at 11.
+
+Monday at 1 pm
+Get the code together and look it over.
